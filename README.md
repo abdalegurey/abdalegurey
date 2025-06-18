@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Abdale Gurey</h1>
-<h3 align="center">🚀 A Passionate Fullstack Developer from Somalia 🇸🇴</h3>
+<h3 align="center">🚀 Fullstack Developer from Somalia 🇸🇴</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Laravel+%7C+React+%7C+TailwindCSS+Expert;Building+Real-world+Web+Apps;Welcome+to+my+GitHub+Profile!+" alt="Typing SVG" />
+  With hands-on experience in <strong>React</strong>, <strong>Laravel</strong>, and <strong>TailwindCSS</strong>,
+  I'm currently diving deeper into the backend with <strong>Node.js</strong> & <strong>Express</strong>.
+  I enjoy building real-world applications that solve practical problems.
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+from+Somalia;React+%7C+Laravel+%7C+TailwindCSS+%7C+Node.js;Building+Real-world+Web+Apps;Currently+Exploring+Express.js+Backend;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -51,7 +58,7 @@
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abdalegurey)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/abdalegurey)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/abdulahi.axmed.guled)  
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 ---
