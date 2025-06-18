@@ -11,9 +11,9 @@
 
 - 🎓 I'm a Software Engineer based in **Galka’ayo, Somalia**
 - 💻 I build **real-world systems** using modern web technologies  
-- 🔭 Currently working on Laravel + React based government and business apps  
+- 🔭 Currently working on Laravel + React based t and business apps  
 - 💬 Ask me about: `Laravel`, `React`, `TailwindCSS`, `Node.js`, and more  
-- 📫 How to reach me: **abdale.gurey@example.com** *(edit this to your real email)*
+- 📫 How to reach me: **abdalegureyguled@gmail.com** *(edit this to your real email)*
 
 ---
 
