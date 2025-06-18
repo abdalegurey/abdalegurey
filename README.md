@@ -16,11 +16,14 @@
 
 ### 🔍 About Me
 
-- 🎓 I'm a Software Engineer based in **Galka’ayo, Somalia**
-- 💻 I build **real-world systems** using modern web technologies  
-- 🔭 Currently working on Laravel + React based t and business apps  
-- 💬 Ask me about: `Laravel`, `React`, `TailwindCSS`, `Node.js`, and more  
-- 📫 How to reach me: **abdalegureyguled@gmail.com** *(edit this to your real email)*
+- 🎓 I'm a Software Engineer & Frontend Developer based in **Galka’ayo, Somalia**
+- 💻 I build **real-world web systems** using modern technologies  
+- 🌐 Passionate about clean UI, user experience, and responsive design  
+- 🔭 Currently working on fullstack projects using **Laravel** and **React**
+- 💬 Ask me about: `React`, `TailwindCSS`, `Laravel`, `Node.js`, and more  
+- 📫 How to reach me: **abdalegureyguled@gmail.com**  
+- 📬 Or DM me on [Telegram](https://t.me/AbdaleGurey) | [Instagram](https://instagram.com/abdaleguled62)
+
 
 ---
 
