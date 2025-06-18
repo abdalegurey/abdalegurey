@@ -22,7 +22,7 @@
 🌍 From: Galka'ayo, Somalia  
 🛠️ Tech Stack:  
 - 🌐 HTML | CSS | TailwindCSS | JavaScript  
-- ⚛️ React | Next.js  
+- ⚛️ React 
 - 🐘 PHP | Laravel  
 - ⚙️ Node.js | Express.js  
 - 🛢️ MySQL | MongoDB  
@@ -41,9 +41,9 @@
 
 ### 📁 Featured Projects
 
-- 🔹 [Laravel Studio System](https://github.com/abdalegurey/studio-system)
+- 🔹 [Laravel E-Notray Management system](https://github.com/abdalegurey/studio-system)
 - 🔹 [Death Registration System](https://github.com/abdalegurey/death-registration)
-- 🔹 [React Job Portal](https://github.com/abdalegurey/job-portal)
+- 🔹 [React and supabase Bus Booking System](https://github.com/dugsiiyeinc/Bus-Booking-system)
 - *(Add or edit more)*
 
 ---
