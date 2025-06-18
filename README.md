@@ -19,9 +19,14 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,laravel,js,react,tailwind,nodejs,mysql,git,github,vscode" />
-</p>
+🌍 From: Galka'ayo, Somalia  
+🛠️ Tech Stack:  
+- 🌐 HTML | CSS | TailwindCSS | JavaScript  
+- ⚛️ React | Next.js  
+- 🐘 PHP | Laravel  
+- ⚙️ Node.js | Express.js  
+- 🛢️ MySQL | MongoDB  
+- 🔧 Git | GitHub | VS Code 
 
 ---
 
