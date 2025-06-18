@@ -41,8 +41,8 @@
 
 ### 📁 Featured Projects
 
-- 🔹 [Laravel E-Notray Management system](https://github.com/abdalegurey/studio-system)
-- 🔹 [Death Registration System](https://github.com/abdalegurey/death-registration)
+- 🔹 [Laravel E-Notray Management system](https://github.com/abdalegurey/E-Notary-Management-System)
+- 🔹 [Driver And Traveller-Transport-Control-System System](https://github.com/abdalegurey/Driver-And-Traveller-Transport-Control-System)
 - 🔹 [React and supabase Bus Booking System](https://github.com/dugsiiyeinc/Bus-Booking-system)
 - *(Add or edit more)*
 
